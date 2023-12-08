@@ -79,7 +79,7 @@ _Инструменты:_
 - python -m pytest -v --driver Chrome --driver-path C:\Users\volod\PycharmProjects\Rostelekom\chromedriver.exe tests\test_Rostelekom_registration.py
 - python -m pytest -v --driver Chrome --driver-path C:\Users\volod\PycharmProjects\Rostelekom\chromedriver.exe tests\test_Rostelekom_authorization.py
 
-
+<hr>
 
 
 
