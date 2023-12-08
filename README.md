@@ -52,7 +52,8 @@
 
 _Инструменты:_
 
-Автоматизированное тестирование проведено с использованием _PyTest_ и _Selenium_ на основе паттерна _PageObject_ 
+Автоматизированное тестирование проведено с использованием _PyTest_ и _Selenium_ на основе паттерна _PageObject_<br>
+Для определения локаторов использовались _DevTools_, _Element Locator_, _XPath Helper_
 
 Обязательные библиотеки: _pytest, selenium, pytest-selenium, dotenv, urllib_
 
